@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="action_settings">Settings</string>
+    <string name="tgl_order_default">Display IDs</string>
+    <string name="tgl_order_id">Display Names</string>
+    <string name="access_history">Access History</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="student_id">Student ID</string>
+    <string name="gpa">GPA</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="newProfile">Add New Profile</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <!-- Strings used as templates or static values -->
+    <string name="template_user_profile">User Profile\n
+        Surname: %1s\n
+        Name: %2s\n
+        ID: %1d\n
+        GPA: %1f\n
+        Profile Created: %3s\n
+    </string>
+
+
+
+</resources>

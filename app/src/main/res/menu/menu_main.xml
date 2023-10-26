@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.assignment2.MainActivity">
+    <item
+        android:id="@+id/tgl_order"
+        android:orderInCategory="100"
+        android:title="@string/tgl_order_default"
+        app:showAsAction="never" />
+</menu>
